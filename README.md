@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Second-year student of **Technology Management** at the University of Plymouth
+- 🎓 Final-year student of **Technology Management** at the University of Plymouth
 - 💼 Completed a full-stack **Doctor Review & Channeling Web Platform**  
 - 📊 Strong background in **Business Process Analysis**, **BPMN**, and **Process Re-engineering**  
 - 🧠 Passionate about combining **technology** and **business insights** to solve real-world problems  
