@@ -74,6 +74,23 @@ Tech: Angular · Node.js · MySQL · Azure
 
 ---
 
+### 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavidu23&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavidu23&theme=tokyonight" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavidu23&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavidu23&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74F78&width=500&lines=Thanks+for+visiting+my+GitHub!+🌟;Let's+build+something+awesome+together!+🚀;Good+luck+on+your+journey!+💼" />
 </p>
