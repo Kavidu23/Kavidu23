@@ -83,11 +83,7 @@ Tech: Angular · Node.js · MySQL · Azure
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavidu23&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavidu23&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavidu23&bg_color=1a1b27&color=38bdae&line=9ae6b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
