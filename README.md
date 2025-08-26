@@ -24,6 +24,7 @@
 - 🧠 Passionate about connecting **technology** and **business insights** to solve real-world problems  
 - 🎯 On track to pursue a **Master’s in Business Administration (MBA)**  
 - 🌐 Website: [kavidu-lakshan.my](https://kavidu-lakshan.my)  
+- 💼 Portfolio: [kavidu23.github.io/Personal](https://kavidu23.github.io/Personal/)  
 - 📫 Email: [10952412@students.plymouth.ac.uk](mailto:10952412@students.plymouth.ac.uk)
 
 ---
@@ -50,13 +51,13 @@
 
 ✨ **Doctor Review & Channeling Platform**  
 > _An end-to-end full-stack web application for doctor feedback, patient channeling & appointment booking._  
-Tech: Angular · Node.js · MySQL · Azure
+Tech: Angular · Node.js · MySQL · Azure  
 
 📊 **Salary Analytics Dashboard**  
-> _Visualized Sri Lankan salary trends and role distribution using Power BI & Excel._
+> _Visualized Sri Lankan salary trends and role distribution using Power BI & Excel._  
 
 🔄 **Business Process Redesign Models**  
-> _BPMN diagrams and improved workflows for academic and business process simulations._
+> _BPMN diagrams and improved workflows for academic and business process simulations._  
 
 ---
 
@@ -64,7 +65,7 @@ Tech: Angular · Node.js · MySQL · Azure
 
 - 🔍 Advance my **data analytics** and **cloud-native** capabilities  
 - 💬 Collaborate on projects involving **BA case studies**, **BI dashboards**, or **system design**  
-- 🎓 Prepare for a **tech-focused MBA** with strong leadership & innovation potential
+- 🎓 Prepare for a **tech-focused MBA** with strong leadership & innovation potential  
 
 ---
 
@@ -78,7 +79,7 @@ Tech: Angular · Node.js · MySQL · Azure
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavidu23&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavidu23&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com?user=kavidu23&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 <p align="center">
