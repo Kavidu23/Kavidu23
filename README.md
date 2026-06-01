@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kavidu Lakshan</h1>
-<h3 align="center">💻 Full-Stack Developer | 📊 Business Analyst | 🎓 Future MBA Candidate</h3>
+<h3 align="center">💻 Project Manager | 📊 Business Analyst | 🎓 Future MBA Candidate</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="coding laptop" />
